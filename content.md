@@ -54,6 +54,7 @@ class:center,middle
 
 # Good Data Is...
 ???
++ Format: Facilitator prompts participants to take one aspect of good data and reflect 
 + Source: [Stephanie Singer](https://www.linkedin.com/in/stephanie-singer-68499a/) ]]
 
 --
