@@ -24,9 +24,9 @@ class: center,middle
 
 ## Presenter: Richard Dunks
 
-### Follow along at: 
+### Follow along at: https://bit.ly/overview-data-quality
 
-#### See the code at: 
+#### See the code at: https://bit.ly/overview-data-quality-code
 
 <p class="license-text"><strong><strong>What is Open Data?</strong></strong> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL">Richard Dunks</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
 
@@ -40,22 +40,23 @@ class:center,middle
 ---
 
 # Introductions
+???
++ Format: Facilitator prompts participants to share their name and a 
++ Outcome: Participants are familiar with each other and facilitator is able to assess background knowledge and experience with the subject material
+--
+
 + Your Name
+--
+
 + An example of bad data contributing to a poor outcome (government or industry, professional or personal)
 
 ---
 
-# Data Quality Process
-+ Identify problems
-+ Discover where the problems come from
-+ Identify ways to meaningfully resolve the problems
-
----
-
-# Good Data Is...
+# Good Datasets Are...
 ???
-+ Format: Facilitator prompts participants to take one aspect of good data and reflect 
-+ Source: [Stephanie Singer](https://www.linkedin.com/in/stephanie-singer-68499a/) ]]
++ Format: Facilitator prompts participants to take one aspect of good data and reflect with the group
++ Outcome: Participants are familiar with the three main elements of data quality
++ Source: [Stephanie Singer](https://www.linkedin.com/in/stephanie-singer-68499a/)
 
 --
 
@@ -70,7 +71,24 @@ class:center,middle
 
 
 ##### &nbsp;
-## What does this mean for you?
+## What do these mean to you?
+
+---
+
+# Data Quality Improvement
+???
++ Format: Facilitator provides points to participants and connects to future learning objectives
++ Outcome: Participants are familiar with the key steps to improve data quality
++ Source: [Data Quality and Data Cleaning: An Overview (Lecture Slides), Theodore Johnson, 2004](http://www.cs.rutgers.edu/~muthu/dqted.ppt)
+--
+
++ Identify the problem
+--
+
++ Identify source of the problem
+--
+
++ Identify meaningful and viable solutions
 
 ---
 
