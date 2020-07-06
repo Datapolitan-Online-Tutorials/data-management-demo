@@ -87,7 +87,7 @@ class:center,middle
 ---
 
 # Final Thought
-> We can't make good decisions with bad data.
+> It's much harder to make good decisions with bad data than with good data, and much less reliably so.
 
 ---
 
