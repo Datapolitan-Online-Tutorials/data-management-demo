@@ -22,7 +22,7 @@ class: center,middle
 
 - - -
 
-## Presenter: Richard Dunks
+## Facilitator: Richard Dunks
 
 ### Follow along at: https://bit.ly/overview-data-quality
 
@@ -41,7 +41,7 @@ class:center,middle
 
 # Introductions
 ???
-+ Format: Facilitator prompts participants to share their name and a 
++ Format: Facilitator prompts participants to share their name and a data quality issue they're familiar with to assess familiarity with the topic
 + Outcome: Participants are familiar with each other and facilitator is able to assess background knowledge and experience with the subject material
 --
 
@@ -54,7 +54,7 @@ class:center,middle
 
 # Good Datasets Are...
 ???
-+ Format: Facilitator prompts participants to take one aspect of good data and reflect with the group
++ Format: Facilitator prompts participants to take one aspect of good data and reflect with the group, with structuring and any necessary reframing from the facilitator
 + Outcome: Participants are familiar with the three main elements of data quality
 + Source: [Stephanie Singer](https://www.linkedin.com/in/stephanie-singer-68499a/)
 
@@ -89,6 +89,9 @@ class:center,middle
 --
 
 + Identify meaningful and viable solutions
+--
+
++ Implement the solution
 
 ---
 
@@ -106,7 +109,7 @@ class:center,middle
 ---
 
 # Final Thought
-> It's much harder to make good decisions with bad data than with good data, and much less reliably so.
+> It's much harder to make good decisions with bad data than with good data.
 
 ---
 
